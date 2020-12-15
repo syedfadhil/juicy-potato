@@ -6,6 +6,7 @@ build:
   verbosity: minimal
 artifacts:
 - path: JuicyPotato\Release\x64\*.exe
+- name: Potato
 only_commits:
   files:
     - JuicyPotato/
